@@ -1,8 +1,10 @@
-[Tue Jan 23 22:44:47 2018] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
-[Tue Jan 23 22:44:47 2018] [notice] Server built: Sep 10 2011 11:34:11
-[Tue Jan 23 22:44:47 2018] [notice] Parent: Created child process 12652
-[Tue Jan 23 22:44:47 2018] [notice] Child 12652: Child process is running
-[Tue Jan 23 22:44:47 2018] [notice] Child 12652: Acquired the start mutex.
-[Tue Jan 23 22:44:47 2018] [notice] Child 12652: Starting 64 worker threads.
-[Tue Jan 23 22:44:47 2018] [notice] Child 12652: Starting thread to listen on port 8080.
-[Tue Jan 23 22:44:47 2018] [notice] Child 12652: Starting thread to listen on port 8080.
+[Wed Jan 24 11:17:19 2018] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Jan 24 11:17:19 2018] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Jan 24 11:17:19 2018] [notice] Parent: Created child process 12540
+[Wed Jan 24 11:17:19 2018] [notice] Child 12540: Child process is running
+[Wed Jan 24 11:17:19 2018] [notice] Child 12540: Acquired the start mutex.
+[Wed Jan 24 11:17:19 2018] [notice] Child 12540: Starting 64 worker threads.
+[Wed Jan 24 11:17:19 2018] [notice] Child 12540: Starting thread to listen on port 8080.
+[Wed Jan 24 11:17:19 2018] [notice] Child 12540: Starting thread to listen on port 8080.
+[Wed Jan 24 11:17:56 2018] [error] [client ::1] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\Paloma\\Documents\\GitHub\\wordpressSite\\USBWebserver v8.5\\USBWebserver v8.5\\8.5\\root\\wp-content\\plugins\\woocommerce\\includes\\widgets\\class-wc-widget-cart.php on line 3
+[Wed Jan 24 11:18:13 2018] [error] [client ::1] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\Paloma\\Documents\\GitHub\\wordpressSite\\USBWebserver v8.5\\USBWebserver v8.5\\8.5\\root\\wp-admin\\includes\\class-wp-list-table.php on line 16
