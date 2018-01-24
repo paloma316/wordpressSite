@@ -34,3 +34,4 @@
 ::1 - - [24/Jan/2018:11:20:58 +0000] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 1
 ::1 - - [24/Jan/2018:11:21:01 +0000] "GET /meios-de-pagamento/ HTTP/1.1" 200 47522
 ::1 - - [24/Jan/2018:11:21:03 +0000] "GET /wp-content/uploads/2018/01/logo-150x150.png HTTP/1.1" 200 6301
+::1 - - [24/Jan/2018:11:21:55 +0000] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
